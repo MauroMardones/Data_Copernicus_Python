@@ -1,6 +1,7 @@
 # Script to create configuration files .dodsrc and _netrc (or .netrc)
 # for an easy access to the OPeNDAP API
 
+
 # Import libraries
 import matplotlib
 matplotlib.use('Agg')
