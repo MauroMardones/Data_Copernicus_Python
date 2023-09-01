@@ -42,6 +42,7 @@ OPeNDAP_SERVERS = ["my.cmems-du.eu", "nrt.cmems-du.eu"]
 
 
 
+
 if not exists(netrc_file):
     username = input("mmardones")
     password = getpass.getpass("Trekkero_1")
